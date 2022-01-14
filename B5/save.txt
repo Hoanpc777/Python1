@@ -1,0 +1,58 @@
+B1.Min, max, mean, median, mode cho tổng đơn
+Min = 10.68
+Max = 1042.65
+Median = 253.85
+Mode = [87.234, 93.744, 175.917, 189.0945, 216.846, 217.6335, 263.97, 276.948, 470.988, 829.08]
+B2.Min, max, mean, median, mode cho tổng đơn theo giới tính
+Giới tính nam :
+Min = 10.68
+Max = 1039.29
+Median = 244.23
+Mode = [87.234, 175.917, 276.948]
+Giới tính nữ:
+Min = 12.69
+Max = 1042.65
+Median = 272.58
+Mode = [93.744, 189.0945, 216.846, 217.6335]
+B3.Min, max, mean, median, mode cho tổng đơn theo chi nhánh
+Khu vực 1 là Hà Nội có :
+Min = 12.69
+Max = 951.83
+Median = 236.38
+Mode = [216.846]
+Khu vực 2 là TP HCM có :
+Min = 10.68
+Max = 1042.65
+Median = 271.42
+Mode = [276.948, 829.08]
+Khu vực 3 là Đà Nẵng có :
+Min = 20.11
+Max = 1022.49
+Median = 249.65
+Mode = [263.97]
+B4.Min, max, mean, median, mode cho rating theo giới tính, chi nhánh
+Rating theo giới tính nam :
+Min = 4.00
+Max = 10.00
+Median = 6.90
+Mode = [6.0]
+Rating theo giới tính nữ:
+Min = 4.00
+Max = 10.00
+Median = 7.10
+Mode = [9.5]
+Khu vực 1 là Hà Nội có rating :
+Min = 4.00
+Max = 9.90
+Median = 7.00
+Mode = [6.6]
+Khu vực 2 là TP HCM có rating:
+Min = 4.00
+Max = 10.00
+Median = 7.00
+Mode = [6.0]
+Khu vực 3 là Đà Nẵng có rating:
+Min = 4.00
+Max = 10.00
+Median = 6.70
+Mode = [6.5]
