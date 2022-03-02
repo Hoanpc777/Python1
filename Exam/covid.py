@@ -13,9 +13,7 @@ df = data.groupby(['year','month','continent','iso_code','location','life_expect
 df['new_cases'] = df['new_cases'].mask(df['new_cases']<0,0)
 
 app.layout = html.Div([
-    html.Div([
-
-        
+    html.Div([        
         dcc.Dropdown(
             df['location'].unique(),
             'Vietnam',

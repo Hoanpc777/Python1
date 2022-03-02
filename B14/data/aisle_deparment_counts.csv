@@ -1,0 +1,135 @@
+aisle_id,counts,aisle,department_id,department
+1,15632,prepared soups salads,20,deli
+13,21357,prepared meals,20,deli
+14,28085,tofu meat alternatives,20,deli
+67,76837,fresh dips tapenades,20,deli
+96,85093,lunch meat,20,deli
+2,17897,specialty cheeses,16,dairy eggs
+21,211480,packaged cheese,16,dairy eggs
+36,54690,butter,16,dairy eggs
+53,68635,cream,16,dairy eggs
+71,8199,refrigerated pudding desserts,16,dairy eggs
+84,192052,milk,16,dairy eggs
+86,97746,eggs,16,dairy eggs
+91,138111,soy lactosefree,16,dairy eggs
+108,66386,other creams cheeses,16,dairy eggs
+120,313279,yogurt,16,dairy eggs
+3,98222,energy granola bars,19,snacks
+23,35179,popcorn jerky,19,snacks
+45,64790,candy chocolate,19,snacks
+46,4840,mint gum,19,snacks
+50,38232,fruit vegetable snacks,19,snacks
+61,50451,cookies cakes,19,snacks
+78,98691,crackers,19,snacks
+103,2372,ice cream toppings,19,snacks
+107,156875,chips pretzels,19,snacks
+117,65980,nuts seeds dried fruit,19,snacks
+125,7686,trail mix snack mix,19,snacks
+4,43156,instant foods,9,dry goods pasta
+9,46886,pasta sauce,9,dry goods pasta
+12,7815,fresh pasta,9,dry goods pasta
+63,31121,grains rice dried goods,9,dry goods pasta
+131,57883,dry pasta,9,dry goods pasta
+5,13521,marinades meat preparation,13,pantry
+17,70640,baking ingredients,13,pantry
+19,53002,oils vinegars,13,pantry
+29,14280,honeys syrups nectars,13,pantry
+51,23605,preserved dips spreads,13,pantry
+72,47968,condiments,13,pantry
+88,62568,spreads,13,pantry
+89,21489,salad dressing toppings,13,pantry
+97,5107,baking supplies decor,13,pantry
+104,45736,spices seasonings,13,pantry
+105,22938,doughs gelatins bake mixes,13,pantry
+110,23876,pickled goods olives,13,pantry
+6,7639,other,2,other
+7,7162,packaged meat,12,meat seafood
+15,4530,packaged seafood,12,meat seafood
+35,28027,poultry counter,12,meat seafood
+39,6363,seafood counter,12,meat seafood
+49,25553,packaged poultry,12,meat seafood
+106,65828,hot dogs bacon sausage,12,meat seafood
+122,15334,meat counter,12,meat seafood
+8,7558,bakery desserts,3,bakery
+43,24410,buns rolls,3,bakery
+93,53976,breakfast bakery,3,bakery
+112,125989,bread,3,bakery
+128,41842,tortillas flat bread,3,bakery
+10,2002,kitchen supplies,17,household
+54,52180,paper goods,17,household
+60,6908,trash bags liners,17,household
+74,20460,dish detergents,17,household
+75,20408,laundry,17,household
+85,14344,food storage,17,household
+87,3793,more household,17,household
+101,4152,air fresheners candles,17,household
+111,9351,plates bowls cups flatware,17,household
+114,25429,cleaning products,17,household
+11,5465,cold flu allergy,11,personal care
+20,13914,oral hygiene,11,personal care
+22,6906,hair care,11,personal care
+25,13753,soap,11,personal care
+44,1911,eye ear care,11,personal care
+47,9673,vitamins supplements,11,personal care
+55,2184,shave needs,11,personal care
+65,7885,protein meal replacements,11,personal care
+70,5756,digestion,11,personal care
+73,2691,facial care,11,personal care
+80,3206,deodorants,11,personal care
+109,2214,skin care,11,personal care
+118,2287,first aid,11,personal care
+126,4348,feminine care,11,personal care
+127,8737,body lotions soap,11,personal care
+132,1308,beauty,11,personal care
+133,4132,muscles joints pain relief,11,personal care
+16,81378,fresh herbs,4,produce
+24,786888,fresh fruits,4,produce
+32,59775,packaged produce,4,produce
+83,737374,fresh vegetables,4,produce
+123,381575,packaged vegetables fruits,4,produce
+18,3782,bulk dried fruits vegetables,10,bulk
+68,3632,bulk grains rice dried goods,10,bulk
+26,44837,coffee,7,beverages
+31,124003,refrigerated,7,beverages
+64,22301,energy sports drinks,7,beverages
+77,77317,soft drinks,7,beverages
+90,4537,cocoa drink mixes,7,beverages
+94,53848,tea,7,beverages
+98,71959,juice nectars,7,beverages
+115,181060,water seltzer sparkling water,7,beverages
+27,10609,beers coolers,5,alcohol
+28,7823,red wines,5,alcohol
+62,6634,white wines,5,alcohol
+124,5939,spirits,5,alcohol
+134,2413,specialty wines champagnes,5,alcohol
+30,16099,latino foods,6,international
+33,2585,kosher foods,6,international
+66,36085,asian foods,6,international
+76,3480,indian foods,6,international
+34,15480,frozen meat seafood,1,frozen
+37,107104,ice cream ice,1,frozen
+38,84205,frozen meals,1,frozen
+42,21713,frozen vegan vegetarian,1,frozen
+52,50293,frozen breakfast,1,frozen
+58,8702,frozen breads doughs,1,frozen
+79,34911,frozen pizza,1,frozen
+113,980,frozen juice,1,frozen
+116,113088,frozen produce,1,frozen
+119,4189,frozen dessert,1,frozen
+129,41968,frozen appetizers sides,1,frozen
+40,7719,dog food care,8,pets
+41,13501,cat food care,8,pets
+48,15708,breakfast bars pastries,14,breakfast
+57,22219,granola,14,breakfast
+121,81242,cereal,14,breakfast
+130,34049,hot cereal pancake mixes,14,breakfast
+56,5351,diapers wipes,18,babies
+82,1735,baby accessories,18,babies
+92,83167,baby food formula,18,babies
+102,1792,baby bath body care,18,babies
+59,58659,canned meals beans,15,canned goods
+69,74567,soup broth bouillon,15,canned goods
+81,64252,canned jarred vegetables,15,canned goods
+95,14455,canned meat seafood,15,canned goods
+99,18274,canned fruit applesauce,15,canned goods
+100,14748,missing,21,missing
